@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Order Events Extension – Privacy Policy
 
-Last updated: November 21, 2026
+Last updated: November 23, 2026
 
 The Order Events extension is a browser extension used only by the store's staff on the store's computers. It records the order activity staff carry out in the TCGplayer Seller Portal, so the store can track how its orders are processed.
 
@@ -19,6 +19,10 @@ When staff work on orders in the Seller Portal, the extension records:
 - The extension version and basic health information (queued events and the Seller Portal page path)
 
 It does not collect buyer names, addresses, email addresses, phone numbers or payment details. It does not read the browsing history, or any site other than the TCGplayer Seller Portal pages it runs on. It never changes orders or pages.
+
+## Order search
+
+Staff can search the store's orders from the extension's order lookup page. Searches by buyer name, date or order number are sent to the TCGplayer Seller Portal's own order search, using the staff member's Seller Portal login. The results, including buyer names, are only shown on that page. They are not stored and are not sent to the store's order-tracking service or anywhere else.
 
 ## How it is used
 
